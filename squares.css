@@ -1,0 +1,12 @@
+#squarearea {
+    border: 2px solid black;
+    width: 700px;
+    height: 300px;
+    position: relative;
+}
+.square {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    position: absolute;
+}
